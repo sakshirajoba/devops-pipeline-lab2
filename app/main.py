@@ -1,5 +1,4 @@
 import argparse
-import sys
 
 from app import calculator
 
